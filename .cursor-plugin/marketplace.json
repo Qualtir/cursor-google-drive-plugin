@@ -1,24 +1,11 @@
 {
-  "name": "cursor-plugin-starters",
-  "owner": {
-    "name": "Your Org",
-    "email": "plugins@example.com"
+  "name": "google-drive",
+  "version": "0.1.0",
+  "description": "MCP server for Google Drive file management — search, organize, share, and manipulate files and folders through your AI assistant.",
+  "author": {
+    "name": "Qualtir",
+    "email": "contact@gpt.space"
   },
-  "metadata": {
-    "description": "Starter marketplace template for Cursor plugins",
-    "version": "0.1.0",
-    "pluginRoot": "plugins"
-  },
-  "plugins": [
-    {
-      "name": "starter-simple",
-      "source": "./plugins/starter-simple",
-      "description": "Minimal plugin with rules and skills only"
-    },
-    {
-      "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
-      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
-    }
-  ]
+  "logo": "assets/logo.svg",
+  "keywords": ["google", "productivity", "drive", "files", "disk", "storage", "store", "mcp"]
 }

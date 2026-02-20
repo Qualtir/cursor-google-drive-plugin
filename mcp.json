@@ -1,0 +1,6 @@
+{
+  "google-drive": {
+    "type": "http",
+    "url": "https://api.gpt.space/servers/google-drive/mcp"
+  }
+}

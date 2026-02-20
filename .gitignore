@@ -5,6 +5,7 @@
 
 # OS and editor
 .DS_Store
+.idea
 *.swp
 *.swo
 
